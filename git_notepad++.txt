@@ -1,0 +1,6 @@
+.gitconfig file write:
+[user]
+      name = Ara
+      email = aro91@yandex.ru
+[core]
+   editor = 'D:\\Program Files\\Notepad++\\notepad++.exe' -multiInst -noteabbar -nosession -noPlugin	  
